@@ -66,6 +66,9 @@
 * [Maintenance](#maintenance)
     * [Axis Sliders](#axis-sliders)
     * [Nozzle Cleaning - Cold Pulling](#nozzle-cleaning---cold-pulling)
-    * [Trinus Specs](#trinus-specifications)
+
+* [Trinus Specifications](#trinus-specifications)
+    * [Extruder Assembly](#extruder-assembly)
+
 * [Revision History](#revision-history)
 </div>
