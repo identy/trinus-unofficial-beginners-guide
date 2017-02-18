@@ -3,6 +3,11 @@
 
 Find all the changes that have been made since you last downloaded a copy of this guide. All dates are listed in Year / Month / Day format.
 
+**2017 / 02 / 18**
+
+* Created a section for the current known specs for the Trinus ([link](#trinus-specifications))
+* Added a revision date to the top of the document to quickly determine if anything new has been added. ([link](#trinus-3d-printer-the-unofficial-beginners-guide))
+
 **2017 / 02 / 09**
 
 * Converted the beginners guide to Markdown format so that the original source can be shared via Github.com, this also allows for community contributions. ([link](https://github.com/drofnas/trinus-unofficial-beginners-guide))
