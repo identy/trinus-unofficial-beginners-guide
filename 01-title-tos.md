@@ -1,3 +1,5 @@
+<div class="last_updated">[Last Updated: Feb 18th 2017](#revision-history)</div>
+
 # Trinus 3D Printer *The Unofficial Beginners Guide*
 
 <div class="author">By: John Sanford and Claus Olesen</div>
@@ -64,5 +66,9 @@
 * [Maintenance](#maintenance)
     * [Axis Sliders](#axis-sliders)
     * [Nozzle Cleaning - Cold Pulling](#nozzle-cleaning---cold-pulling)
+
+* [Trinus Specifications](#trinus-specifications)
+    * [Extruder Assembly](#extruder-assembly)
+
 * [Revision History](#revision-history)
 </div>

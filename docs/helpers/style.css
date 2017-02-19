@@ -84,6 +84,7 @@ h4, h5, h6 {
 h1 {
   font-size: 2em;
   color: #025196;
+  margin-top: 1em;
 }
 
 h1 em {
@@ -206,6 +207,16 @@ ul, ol {
   padding: 0 0 0 2em;
 }
 
+.verbose-list ul li,
+.verbose-list ol li {
+  margin-bottom: 20px;
+}
+
+.verbose-list ul li li,
+.verbose-list ol li li {
+  margin-bottom: 0;
+}
+
 li p:last-child {
   margin-bottom: 0;
 }
@@ -289,11 +300,38 @@ table td {
   padding-right: 10px;
 }
 
+.last_updated {
+  border-bottom: 1px solid #aaa;
+  text-align: right;
+}
+
+.last_updated a {
+  color: #999;
+}
+
+.last_updated a:hover {
+  text-decoration: underline;
+}
+
 @media only screen and (min-width: 480px) {
   body {
     font-size: 14px;
   }
 }
+
+@media only screen and (max-width: 431px) {
+  .last_updated {
+    text-align: left;
+  }
+}
+
+@media only screen and (max-width: 624px) {
+  .author {
+    text-align: left;
+    margin-top: -10px;
+  }
+}
+
 @media only screen and (min-width: 768px) {
   body {
     font-size: 16px;
