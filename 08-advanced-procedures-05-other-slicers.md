@@ -20,7 +20,7 @@ Considered to be the best of the best when it comes to slicers. But it also come
 This is an excellent free option with a ton of features, and is a great starting point if you want to venture out into the world of 3rd Party Slicers.
 
 **Forum Thread:** <br/>
-<http://www.kodamaforums.com/phpBB3/viewtopic.php?f=20&t=1423>
+<http://www.kodamaforums.com/phpBB3/viewtopic.php?p=5463#p5463>
 
 > ##### NOTE
 > Currently it doesn’t seem possible to use Cura to connect to your printer over USB in Windows / Mac; users have had success with Linux though. So if you need a way to print via USB then I’d suggest one of the Other Slicers such as Repetier (<https://www.repetier.com/>) or even [OctoPrint](#print-over-wifi---octoprint) for printing over WiFi.

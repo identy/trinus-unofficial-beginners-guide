@@ -12,8 +12,6 @@
 
 <div class="author">By: John Sanford and Claus Olesen</div>
 
-
-
 <div class="toc">
 * [Online Help](#online-help)
     * [Getting Started Videos](#getting-started-videos)
