@@ -3,6 +3,11 @@
 
 Find all the changes that have been made since you last downloaded a copy of this guide. All dates are listed in Year / Month / Day format.
 
+**2017 / 03 / 20**
+
+* Added in some Misc Specs about the Trinus. ([link](#misc-specs))
+* Added a couple links back to GitHub, PDF Download, and Website at the very beginnering of the document.
+
 **2017 / 02 / 18**
 
 * Created a section for the current known specs for the Trinus. Still more to come for this section. ([link](#trinus-specifications))

@@ -66,3 +66,21 @@ The Nozzle (N) should be physically in good contact with the Heat Block (H) so t
 ![Breakdown the entire extruder assembly](chapter-10-trinus-specs/img/extruder-breakdown-video-screenshot.jpg)
 ](https://youtu.be/Fdubyv2CV6o)
 This video will help you break down the entire extruder assembly incase you need to replace / upgrade parts.
+
+
+### Misc Specs
+
+#### Build Area
+Some quick specs on the size of the build area. In order to make use of the full build volume, you will first need to tweak your physical offset screws to allow for this (see [Maximize Build Volume](#maximize-build-volume---3d-printing) section).
+
+* Build Plate Size: 122mm x 130mm (X, Y)
+* Build Volume: 120 x 125 x 125 (X, Y, Z)
+
+#### Screw Sizes
+The following are the screws that were provided with your printer for assembly:
+
+* M3X50mm (LONG SCREW) **x6**
+* M3X18mm (LARGE SCREW) **x18**
+* M4X10mm (MEDIUM SCREW) **x4**
+* M3X8mm (SMALL FLAT HEAD) **x7**
+* M3X6mm (ROUND HEAD) **x2**
