@@ -5,7 +5,7 @@
   [Web](https://drofnas.github.io/trinus-unofficial-beginners-guide/){.web}
 </div>
 
-  [Last Updated: Feb 18th 2017](#revision-history){.last_updated}
+  [Last Updated: Mar 20th 2017](#revision-history){.last_updated}
 </div>
 
 # Trinus 3D Printer *The Unofficial Beginners Guide*
