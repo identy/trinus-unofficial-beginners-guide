@@ -77,6 +77,7 @@
 
 * [Trinus Specifications](#trinus-specifications)
     * [Extruder Assembly](#extruder-assembly)
+    * [Misc Specs](#misc-specs)
 
 * [Revision History](#revision-history)
 </div>
