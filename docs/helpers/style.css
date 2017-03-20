@@ -300,29 +300,40 @@ table td {
   padding-right: 10px;
 }
 
-.last_updated {
+.above_title_links {
   border-bottom: 1px solid #aaa;
   text-align: right;
-}
+  position: relative; }
 
-.last_updated a {
-  color: #999;
-}
+  .above_title_links p { padding: 0; margin: 0; }
 
-.last_updated a:hover {
-  text-decoration: underline;
-}
+  a.last_updated  { color: #999; }
+  a.last_updated:hover { text-decoration: underline; }
+
+  .other_sources {
+    position: absolute;
+    left: 0; }
+
+    .other_sources a {
+      color: #fff;
+      padding: 1px 5px;
+      border-radius: 2px;
+      opacity: 0.5; }
+
+      .other_sources a:hover { opacity: 1; }
+      .other_sources a.github { background-color: #333; }
+      .other_sources a.pdf { background-color: #d9534f; }
+      .other_sources a.web { background-color: #428bca; display: none; }
+      
 
 @media only screen and (min-width: 480px) {
-  body {
-    font-size: 14px;
-  }
+  body { font-size: 14px; }
 }
 
 @media only screen and (max-width: 431px) {
-  .last_updated {
-    text-align: left;
-  }
+  .above_title_links { text-align: left; }
+  .above_title_links .other_sources { position: relative; }
+  .above_title_links .other_sources a { opacity: 1; }
 }
 
 @media only screen and (max-width: 624px) {
@@ -333,11 +344,12 @@ table td {
 }
 
 @media only screen and (min-width: 768px) {
-  body {
-    font-size: 16px;
-  }
+  body { font-size: 16px; }
 }
 
 @media print {
   h2 { page-break-before: always; }
+  .above_title_links .other_sources a { opacity: 1; }
+  .above_title_links .other_sources .pdf { display: none; }
+  .above_title_links .other_sources .web { display: inline; }
 }
