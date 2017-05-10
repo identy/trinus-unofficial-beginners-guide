@@ -70,12 +70,8 @@ OMG where is my Spool Holder? Well, this is meant to be one of your first functi
 Get the latest version (2.3+) as it will be needed to get you set up.
 
 #### Download It
-**Facebook Group - Files Section** <br/>
-<https://www.facebook.com/groups/Trinus3D/files/>
-
-**Forum Post - Facebook File Sync** <br/>
-Since as of this writing the [Forum Downloads](http://www.kodamaforums.com/phpBB3/page/downloads) section doesn’t have the same files as the Facebook Group (this may change when things settle down on Kodama’s side), but for now these files have been downloaded and tossed into a DropBox share; latest additions will be posted here: <br/>
-<http://www.kodamaforums.com/phpBB3/viewtopic.php?f=21&t=363>
+You can grab Pango direct from Kodamas website in the Download section. <br/>
+<https://us.kodama3d.com/pages/download>
 
 #### Install It
 **Windows** <br/>
