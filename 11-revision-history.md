@@ -3,6 +3,10 @@
 
 Find all the changes that have been made since you last downloaded a copy of this guide. All dates are listed in Year / Month / Day format.
 
+**2017 / 05 / 09**
+
+* Updated download link, since the latest files are now on Kodamas website. ([link](#download-it))
+
 **2017 / 03 / 20**
 
 * Added in some Misc Specs about the Trinus. ([link](#misc-specs))
